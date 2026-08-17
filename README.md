@@ -1,2 +1,14 @@
-# telecom-revenue-dashboard-excel
-Interactive Excel dashboard analyzing telecom distributor revenue across 3 regions and 4 distributors (2018–2020), with slicers for dynamic filtering and multiple chart types (line, bar, pie, area) to track top/worst-performing products and revenue trends.
+# Telecom Revenue Dashboard (Excel)
+
+Interactive Excel dashboard analyzing telecom distributor revenue.
+
+## Overview
+- Data: Revenue by region (Miền Bắc, Miền Nam, Miền Trung), distributor (FPT, Mobifone, Viettel, VNPT), and product (2018–2020)
+- Tools: Excel (PivotTables, PivotCharts, Slicers)
+
+## Features
+- Dynamic filtering by Year, Month, Region, and Distributor
+- Top 3 / Worst 3 performing products
+- Revenue share by region and distributor
+- Monthly average revenue trend
+- Daily order volume distribution
